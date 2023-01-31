@@ -21,3 +21,6 @@ Improving PID loop implementation - notes by Arduino PID library author - http:/
 
 Model Predictive Path Integral control  - https://bostoncleek.github.io/project/mppi
 https://github.com/bostoncleek/ROS-Turtlebot-Navigation/tree/master/controller
+
+[Simple PID library in python](https://github.com/m-lundberg/simple-pid)
+- Make sure to use disable/enable `auto_mode` , if you are not running it continuously. Else the (integral?) errors adds up and causes a jump on next step.
