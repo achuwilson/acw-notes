@@ -41,6 +41,23 @@ ffmpeg -i input.gif  -c vp9 -b:v 0 -crf 40 output.webm
 -   `-crf`: Specifies the _quality_, ranges between 0-63, lower means better quality.
 
 #### Displaying videos in HTML webpage 
+
+Add  bootstrap in the scripts (in head) of HTML as follows
+
+```
+<link
+
+rel="stylesheet"
+
+href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css"/>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.js"></script>
+
+```
+
+Then add video anywhere in the body of HTML
 ```
 <div class="col-md-4">
 
@@ -74,7 +91,7 @@ Add video as in the following example:
 ```
 <div align="center">
 
-	<iframe class="youtube-video" src="https://www.youtube.com/embed/hlw0aVvvHLQ" title="Video Title" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	<iframe class="youtube-video" style="width:75%" src="https://www.youtube.com/embed/hlw0aVvvHLQ" title="Video Title" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 </div>
