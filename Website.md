@@ -79,3 +79,10 @@ Add video as in the following example:
 
 </div>
 ```
+
+
+### Comments in static HTML pages
+[cusdis](https://cusdis.com)
+- Free, open source, 
+- Sends emails/Telegram/Webhook notifications on new comments
+- https://github.com/djyde/cusdis
