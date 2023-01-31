@@ -1,7 +1,5 @@
-Here comes my blog articles
-[[Attending my first International Conference and Winning the Robotics Challenge]]
 
-Writing introductions for research papers [[Writing Research paper Intro]] from [Kate Saenko](http://ai.bu.edu/ksaenko.html)
+Writing introductions for research papers [Writing Research paper Intro](https://docs.google.com/presentation/d/1kJ2L1f3e7zHWhe1kgtk-Ycratp9QhuBh2Rsi99gQVxI/edit?usp=sharing) from [Kate Saenko](http://ai.bu.edu/ksaenko.html)
 
 Ken Goldberg's [tips on writing papers](http://coeautomation.wpengine.com/advice-writing-papers)
 
