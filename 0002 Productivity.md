@@ -1,10 +1,14 @@
-[[Luck Surface Area]] Luck =  Doing stuff x Telling People
+[Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
+- Luck =  Doing stuff x Telling People
+
+
 [Learning Complex things quickly](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 
-- " What would you choose to do, if everything you tries becomes successful " - Nemitz, WPI
+ "What would you choose to do, if everything you tries becomes successful " - Nemitz, WPI
 
-- BE A PRODUCER, NOT A CONSUMER
-- **Parkinson's Law** -  work expands to fill the time allotted.
+BE A PRODUCER, NOT A CONSUMER
+
+**Parkinson's Law** -  work expands to fill the time allotted.
 
 [Efficiency is the Enemy](https://fs.blog/2021/05/slack/)
  - [HN Discussion](https://news.ycombinator.com/item?id=27036695)
